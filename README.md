@@ -11,11 +11,11 @@ O objetivo é chegar o mais próximo possível de **21 pontos**, sem ultrapassar
 
 ### Partida
 
-![BlackJack durante uma partida](screenshot.png)
+![BlackJack durante uma partida](screenshot.JPG)
 
 ### Resultado
 
-![Resultado da partida](screenshot2.png)
+![Resultado da partida](screenshot2.JPG)
 
 ## Como jogar
 
